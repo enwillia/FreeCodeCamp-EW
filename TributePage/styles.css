@@ -1,0 +1,32 @@
+root{
+    font-family: Arial, sans-serif;
+}
+
+img, figure{
+    max-width: 100%;
+    height: auto;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+   
+  }
+
+  body{
+  background-color: cornflowerblue;
+    
+    font-family: Arial, sans-serif;
+  }
+
+  #tribute-info, #tribute-link{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  #img-caption{
+    font-style: italic;
+  }
+
+  a{
+    color: black;
+  }
